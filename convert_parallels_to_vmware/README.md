@@ -41,9 +41,15 @@ Once the setup is complete, start the virtual machine in VMware Fusion. You shou
 
 **Compatibility:**
 
-This migration solution is compatible with various versions of Parallels and VMware Fusion. However, it's recommended to use relatively recent versions for optimal compatibility and performance.
+This migration solution is compatible with various versions of Parallels and VMware Fusion. Hover, it's recommended to use relatively recent versions for optimal compatibility and performance.
 
 - **Parallels:** This solution is compatible with Parallels Desktop versions 10 and above. While earlier versions may also work, it's advisable to use a recent version to ensure smoother migration and compatibility with the conversion process.
 - **VMware Fusion:** The migration process outlined here is compatible with VMware Fusion versions 8 and above. Similar to Parallels, using a more recent version of VMware Fusion is recommended for better compatibility and support.
 
 Before proceeding with the migration, ensure that you have the latest updates installed for both Parallels and VMware Fusion. This helps mitigate any potential compatibility issues and ensures a seamless transition of your virtual machines.
+
+------
+
+**Disclaimer:**
+
+Please note that the migration process outlined in this guide is provided for informational purposes only. While every effort has been made to ensure the accuracy and reliability of the information provided, it is ultimately your responsibility to perform the migration at your own risk. I cannot guarantee the success or suitability of this migration solution for your specific circumstances. Additionally, please ensure that you have backups of your Parallels virtual machine files before proceeding with the conversion process. By following the instructions in this guide, you acknowledge and agree to use this migration solution at your own discretion and risk.
