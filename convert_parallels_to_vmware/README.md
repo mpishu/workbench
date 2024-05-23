@@ -4,7 +4,7 @@
 
 **Step 1: Install qemu-img**
 
-Before starting the migration process, ensure that you have qemu-img installed on your system. You can download and install it from the QEMU website or via package managers like Homebrew (for macOS) or apt-get (for Linux). Having the latest version of qemu-img ensures optimal compatibility and performance.
+Before starting the migration process, ensure that you have `qemu-img` installed on your system. You can download and install it from the QEMU website or via package managers like Homebrew (for macOS) or apt-get (for Linux). Having the latest version of `qemu-img` ensures optimal compatibility and performance.
 
 **Step 2: Locate the Parallels Hard Drive (.hds) file**
 
